@@ -21,8 +21,6 @@ This is a code base of todo-api's examples written in ES6 for study purposes.
 * **hapi-redis-api**
 * **hapi-leveldb-api**
 
-**Obs.:** New ideas are welcome! If you want to contribute, please [click here to follow the rules](https://github.com/caio-ribeiro-pereira/node-api-examples/blob/master/CONTRIBUTING.md).
-
 ## Setup
 
 * Clone this repository
@@ -36,6 +34,10 @@ This is a code base of todo-api's examples written in ES6 for study purposes.
   * Creating task: `POST /tasks`
   * Updating task: `PUT /tasks`
   * Deleting task: `DELETE /tasks/:task_id`
+
+## Contributing
+
+New project's are welcome! If you want to contribute, please [click here to follow this simple rules](https://github.com/caio-ribeiro-pereira/node-api-examples/blob/master/CONTRIBUTING.md).
 
 ## Collaborators
 
