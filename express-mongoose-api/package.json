@@ -1,7 +1,7 @@
 {
-  "name": "express-mongodb-api",
+  "name": "express-mongoose-api",
   "version": "1.0.0",
-  "description": "Express + MongoDB API example",
+  "description": "Express + Mongoose API example",
   "main": "index.js",
   "scripts": {
     "start": "NODE_ENV=development nodemon index.js --exec babel-node",
