@@ -1,6 +1,6 @@
 # Contributing
 
-To send a pull request of new project, first you must create a API using a web framework and a database framework for Node.js, following the rules below:
+To send a pull request of a new api example, just follow these rules:
 
 * The project's name should be named as: `web_module-db_module-api`;
 * The project must have a task CRUD, using these endpoints:

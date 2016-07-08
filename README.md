@@ -1,6 +1,6 @@
 # Node API Examples
 
-A set of Tasklist APIs which explores some databases and web frameworks from Node.js.  
+A set of Node Tasklist APIs which explores some databases and web frameworks.
 This is a code base of todo-api's examples written in ES6 for study purposes.
 
 ## Projects
