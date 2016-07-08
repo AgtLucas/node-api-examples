@@ -13,11 +13,13 @@ This is a code base of todo-api's examples written in ES6 for study purposes.
 
 * **express-knex-api**
 * **express-redis-api**
+* **express-leveldb-api**
 * **hapi-mongoose-api**
 * **hapi-rethinkdb-api**
 * **hapi-sequelize-api**
 * **hapi-knex-api**
 * **hapi-redis-api**
+* **hapi-leveldb-api**
 
 **Obs.:** New ideas are welcome! If you want to contribute, please [click here to follow the rules](https://github.com/caio-ribeiro-pereira/node-api-examples/blob/master/CONTRIBUTING.md).
 
